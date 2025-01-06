@@ -3,7 +3,7 @@ import Vacances from "./Components/vacances.jsx";  // تأكد من المسار
 
 
 function App() {
-  return <Vacances />;
+  return <Vacances  OFPPT />;
 }
 
 export default App;

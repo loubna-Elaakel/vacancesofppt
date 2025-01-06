@@ -25,7 +25,5 @@ yarn-error.log*
 package-lock.json
 package-lock.json
 
-#ignore les fichiers 
-node_modules
-node_modules/
-
+/build
+/node_modules
