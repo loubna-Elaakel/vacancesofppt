@@ -1,15 +1,10 @@
 {
   "files": {
-    "main.css": "/vacancesofppt/static/css/main.e6c13ad2.css",
-    "main.js": "/vacancesofppt/static/js/main.73638eb8.js",
-    "static/js/156.af5ba5ae.chunk.js": "/vacancesofppt/static/js/156.af5ba5ae.chunk.js",
+    "main.js": "/vacancesofppt/static/js/main.50d2b2d1.js",
     "index.html": "/vacancesofppt/index.html",
-    "main.e6c13ad2.css.map": "/vacancesofppt/static/css/main.e6c13ad2.css.map",
-    "main.73638eb8.js.map": "/vacancesofppt/static/js/main.73638eb8.js.map",
-    "156.af5ba5ae.chunk.js.map": "/vacancesofppt/static/js/156.af5ba5ae.chunk.js.map"
+    "main.50d2b2d1.js.map": "/vacancesofppt/static/js/main.50d2b2d1.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.73638eb8.js"
+    "static/js/main.50d2b2d1.js"
   ]
 }
